@@ -9,7 +9,7 @@ module.exports = {
   host: '0.0.0.0',
   port: '8888',
   temp: '/path/to/@vuepress/core/.temp',
-  dest: '.vuepress/dist',
+  dest: 'dist',
   locales: undefined,
   shouldPrefetch: () => true,
   cache: true,
