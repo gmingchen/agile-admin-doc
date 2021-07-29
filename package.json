@@ -1,0 +1,24 @@
+{
+  "name": "vue3-element-plus-admin-doc",
+  "version": "1.0.0",
+  "description": "文档",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmingchen/vue3-element-plus-admin-doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmingchen/vue3-element-plus-admin-doc/issues"
+  },
+  "homepage": "https://github.com/gmingchen/vue3-element-plus-admin-doc#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
