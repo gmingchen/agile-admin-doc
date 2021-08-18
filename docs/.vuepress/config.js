@@ -1,6 +1,6 @@
 module.exports = {
   // base: '/vue3-element-plus-admin-doc/',
-  base: '/',
+  base: '/docs/',
   title: 'vue3-element-plus-admin',
   description: 'Just playing around',
   head: [
