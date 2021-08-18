@@ -7,7 +7,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/images/3.jpg' }]
   ],
   host: '0.0.0.0',
-  port: '8888',
+  port: '6666',
   temp: '/path/to/@vuepress/core/.temp',
   dest: 'dist',
   locales: undefined,
@@ -40,7 +40,7 @@ module.exports = {
         title: '后端Java手册',
         collapsable: false,
         children: [
-          ['/views/java/', '介绍']
+          ['/views/java/introduce/', '介绍'],
         ]
       }
     ]
