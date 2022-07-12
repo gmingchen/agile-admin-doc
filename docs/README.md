@@ -1,64 +1,161 @@
-# 介绍
+---
+home: true
+heroImage: /logo.png
+heroText: vue3-element-plus-admin
+---
 
-<p>
-  <a href="https://github.com/vuejs/vue-next">
-    <img src="https://img.shields.io/badge/vue-3.1.2-brightgreen.svg" alt="vue">
-  </a>
-  <a href="https://github.com/element-plus/element-plus">
-    <img src="https://img.shields.io/badge/element--plus-1.0.2--beta.59-brightgreen.svg" alt="element-plus">
-  </a>
-  <a href="https://github.com/gmingchen/vue3-element-plus-admin">
-    <img src="https://img.shields.io/badge/version-3.2.2-brightgreen.svg" alt="license">
-  </a>
-  <a href="https://github.com/gmingchen/vue3-element-plus-admin">
-    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
-  </a>
-</p>
+<div class="btn-box">
+  <a href="./views/start/" class="start">开始</a>
+  <a href="http://frame.gumingchen.icu" target="blank" class="demo">演示</a>
+</div>
 
-[vue3-element-plus-admin](https://github.com/gmingchen/vue3-element-plus-admin)
-是一个后台前端、后端解决方案，它基于
-[vue3](https://github.com/vuejs/vue-next)
-和
-[element-plus](https://github.com/element-plus/element-plus)
-实现。使用了最新的前端技术栈，内置了 i18n 国际化，Typescript，动态路由，菜单权限管理，提炼了典型的业务功能，它可以帮助你快速搭建后台产品原型。
+<div class="img-box">
+  <img class="home-img" src="http://oss.gumingchen.icu/frame/home.jpg" />
+  <img class="personal-img" src="http://oss.gumingchen.icu/frame/personal.jpg" />
+  <img class="file-img" src="http://oss.gumingchen.icu/frame/file.jpg" />
+</div>
 
-::: tip 提示
-master 分支默认使用 composition-api ，若需要 class 风格 + Typescript 请使用[class-style](https://github.com/1240235512/vue3/tree/class-style)分支，若需要 composition-api + Typescript + I18n 请使用[composition-api](https://github.com/1240235512/vue3/tree/composition-api)分支，若只需要 基础版本 请使用[base](https://github.com/1240235512/vue3/tree/base)分支，但它们不会和 master 保持同步更新。
-- [master](https://github.com/gmingchen/vue3-element-plus-admin/tree/master) 轻量版本：持续维护分支
-- [base](https://github.com/gmingchen/vue3-element-plus-admin/tree/base) 精简版本：RBAC 权限功能-仅包含`菜单管理`、`角色管理`、`用户管理`三个模块
-- [composition-api](https://github.com/1240235512/vue3/tree/composition-api) 内置`Type Script`、`I18n`
-- [class-style](https://github.com/1240235512/vue3/tree/class-style) 使用 class 风格开发，内置`Type Script`、`I18n`
-:::
+<div class="other-title">其他开源</div>
+<div class="other-box">
+  <div>
+    <h3>IM即时聊天</h3>
+    <p>一个基于Vue3、Element-plus、Java、Spring boot、Maven、Netty、Mysql、Mybatis-plus的即时聊天系统，内置添加好友、好友私聊等功能。</p>
+    <a href="https://github.com/gmingchen/vue3-element-plus-im" target="blank">查看详情</a>
+  </div>
+  <div>
+    <h3>Node后端服务</h3>
+    <p>是一个基于node、koa2、koa-router、mysql开发的后端服务框架，并使用 gulp 和 gulp-nodemon 实现了热加载功能，只要你会 SQL 就也可以写接口了，再也不用看后端的脸色了。</p>
+    <a href="https://github.com/gmingchen/node-server" target="blank">查看详情</a>
+  </div>
+  <div>
+    <h3>个人博客系统</h3>
+    <p>是一个基于Vue3 + Vite、Element-plus、Java、Spring boot、Mysql、Mybatis-plus开发的个人博客系统，目前还在开发中 70%。。。</p>
+    <a href="https://github.com/gmingchen/vue3-element-plus-blog" target="blank">查看详情</a>
+  </div>
+</div>
 
-::: warning 说明
-本文档只说明 master 分支，其他功能（如：I18n、TypeScript...）的使用请参考对应分支。
-:::
+<style>
+.home {
+  max-width: 1200px!important;
+}
+.home .hero img {
+  height: 200px;
+}
+.home .hero .description {
+  font-size: 14px!important;
+}
 
-## 功能
-```
-- 登录 / 登出
+.btn-box {
+  height: 100px;
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.btn-box a {
+  display: inline-block;
+  height: 50px;
+  width: 170px;
+  line-height: 50px;
+  text-align:center;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+.btn-box .start {
+  background: #46bd87;
+  color: #fff;
+}
+.btn-box .start:hover {
+  background: #7dd0ab
+}
+.btn-box .demo {
+  border: 1px solid #46bd87;
+  color: #46bd87;
+}
+.btn-box .demo:hover {
+  background: rgba(19, 206, 102, 0.15)
+}
 
-- 系统管理
-  - 角色管理
-  - 管理员管理
+.img-box {
+  position: relative;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.img-box .home-img {
+  position: relative;
+  width: 70%;
+  z-index: 10;
+}
+.img-box .personal-img {
+  position: absolute;
+  width: 60%;
+  left: 0;
+  bottom: 4px;
+  z-index: 0;
+}
+.img-box .file-img {
+  position: absolute;
+  width: 60%;
+  right: 0;
+  bottom: 4px;
+  z-index: 0;
+}
 
-- 消息管理
-  - 邮件模版
-  - 邮件记录
-
-- 日志管理
-  - 登陆日志
-  - 操作日志
-  - 定时任务日志
-  - 异常日志
-  
-- 开发管理
-  - 菜单管理
-  - 配置管理
-  - 定时任务
-  - 备份管理
-  - 文件上传
-  - 代码生成器
-  - 接口文档
-  - Druid监控
-```
+.other-title {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 700;
+  text-align: center;
+  color: #46bd87;
+}
+.other-box {
+  margin: 20px 0 40px 0;
+  display: flex;
+  justify-content: space-around;
+}
+.other-box > div {
+  position: relative;
+  bottom: 0px;
+  margin: 0 50px;
+  height: 300px;
+  width: 260px;
+  border: 1px solid #dcdfe6;
+  border-radius: 5px;
+  text-align: center;
+  transition: all .3s ease-in-out;
+}
+.other-box > div:hover {
+  bottom: 6px;
+  box-shadow:0 12px 32px 4px #edeff53d,0 8px 20px #edeff57a;
+}
+.other-box > div > p {
+  font-size: 14px;
+  color: #99a9bf;
+  padding: 0 25px;
+  line-height: 20px;
+}
+.other-box > div > a {
+  height: 53px;
+  line-height: 52px;
+  font-size: 14px;
+  color: #46bd87;
+  text-align: center;
+  border: 0;
+  border-top: 1px solid #dcdfe6;
+  padding: 0;
+  cursor: pointer;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  border-radius: 0 0 5px 5px;
+  transition: all .3s;
+  text-decoration: none;
+  display: block;
+}
+.other-box > div > a:hover {
+  color: white;
+  background: #46bd87;
+}
+</style>

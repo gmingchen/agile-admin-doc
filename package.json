@@ -1,24 +1,28 @@
 {
   "name": "vue3-element-plus-admin-doc",
-  "version": "1.0.0",
-  "description": "文档",
+  "version": "5.0.0",
+  "description": "ue3-element-plus-admin-doc",
+  "author": "gumingchen",
+  "license": "MIT",
   "main": "index.js",
-  "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bugs": {
+    "url": "https://github.com/gmingchen/vue3-element-plus-admin-doc/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gmingchen/vue3-element-plus-admin-doc.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gmingchen/vue3-element-plus-admin-doc/issues"
-  },
   "homepage": "https://github.com/gmingchen/vue3-element-plus-admin-doc#readme",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs",
+    "deploy": "vuepress build docs && node ./deploy"
+  },
   "devDependencies": {
-    "vuepress": "^1.8.2"
+    "cross-env": "^7.0.3",
+    "ora": "^6.1.2",
+    "scp2": "^0.5.0",
+    "vuepress": "^1.8.2",
+    "watchpack": "^2.4.0"
   }
 }
