@@ -45,6 +45,7 @@ module.exports = {
             ['/views/vue/layout', '🖐️ 布局'],
             ['/views/vue/router-sidebar', '🛣️ 路由和侧边栏'],
             ['/views/vue/permission', '🎛️ 权限'],
+            ['/views/vue/iconfont', '🧩 图标'],
             ['/views/vue/flow', '👨‍💻 开发流程'],
           ]
         },
