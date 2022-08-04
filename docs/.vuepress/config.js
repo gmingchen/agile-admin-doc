@@ -2,7 +2,7 @@ module.exports = {
   title: 'vue3-element-plus-admin',
   base: '/docs/',
   dest: 'frame-document',
-  description: '基于Vue3、Element-plus和Java的快速开发应用程序',
+  description: '一套基于vue3、element plus 和 Java 的快速开发后台管理权限系统的应用程序【私活神器，私活利器】',
   markdown: {
     lineNumbers: true,
   },
