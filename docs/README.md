@@ -6,13 +6,13 @@ heroText: vue3-element-plus-admin
 
 <div class="btn-box">
   <a href="./views/start/" class="start">开始</a>
-  <a href="http://frame.gumingchen.icu" target="blank" class="demo">演示</a>
+  <a href="http://admin.gumingchen.icu" target="blank" class="demo">演示</a>
 </div>
 
 <div class="img-box">
-  <img class="home-img" src="http://oss.gumingchen.icu/frame/home.jpg" />
-  <img class="personal-img" src="http://oss.gumingchen.icu/frame/personal.jpg" />
-  <img class="file-img" src="http://oss.gumingchen.icu/frame/file.jpg" />
+  <img class="home-img" src="http://oss.gumingchen.icu/admin/home.jpg" />
+  <img class="personal-img" src="http://oss.gumingchen.icu/admin/personal.jpg" />
+  <img class="file-img" src="http://oss.gumingchen.icu/admin/file.jpg" />
 </div>
 
 <div class="other-title">其他开源</div>

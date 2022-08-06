@@ -1,7 +1,7 @@
 # 图标
 在本项目中使用的都是svg图标，使用了Iconfont矢量图标管理平台，所有的svg图标都是存储在该平台中。
 ::: tip svg
-本项目的svg图标可以点击这里进行下载：<a href="http://oss.gumingchen.icu/frame/iconfont.zip">svg</a>
+本项目的svg图标可以点击这里进行下载：<a href="http://oss.gumingchen.icu/admin/iconfont.zip">svg</a>
 :::
 
 ## 上传图标

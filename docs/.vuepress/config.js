@@ -1,7 +1,7 @@
 module.exports = {
   title: 'vue3-element-plus-admin',
   base: '/docs/',
-  dest: 'frame-document',
+  dest: 'admin-document',
   description: '一套基于vue3、element plus 和 Java 的快速开发后台管理权限系统的应用程序【私活神器，私活利器】',
   markdown: {
     lineNumbers: true,
@@ -13,7 +13,7 @@ module.exports = {
     ],
     nav: [
       { text: '📖 文档', link: '/views/start/' },
-      { text: '📺 演示', link: 'http://frame.gumingchen.icu' },
+      { text: '📺 演示', link: 'http://admin.gumingchen.icu' },
       { text: '🤑 捐赠', link: '/views/donation/' },
       { 
         text: '⌨️ 源码',

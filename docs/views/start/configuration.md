@@ -25,7 +25,7 @@ module.exports = defineConfig({
   // 部署应用时的基本路径.
   publicPath: './',
   // build时构建文件的目录,构建时传入 --no-clean 可关闭该行为.
-  outputDir: 'frame',
+  outputDir: 'admin',
   // build时放置生成的静态资源(js、css、img、fonts)的(相对于 outputDir 的)目录.
   assetsDir: 'static',
   // 指定生成的index.html的输出路径(相对于 outputDir ),也可以是一个绝对路径.
@@ -235,7 +235,7 @@ VUE_APP_PROXY = 'false'
 // 环境
 NODE_ENV = 'production'
 // Api请求地址
-VUE_APP_BASE_API = 'http://api.frame.gumingchen.icu'
+VUE_APP_BASE_API = 'http://api.admin.gumingchen.icu'
 // WebSocket连接地址
 VUE_APP_WS_URL = 'ws://139.196.182.46:8806/slipper/websocket/'
 // todo: 以下两个变量是在本地开发的时候使用
@@ -249,7 +249,7 @@ VUE_APP_PROXY = 'false'
 // 环境
 NODE_ENV = 'testing'
 // Api请求地址
-VUE_APP_BASE_API = 'http://api.frame.gumingchen.icu'
+VUE_APP_BASE_API = 'http://api.admin.gumingchen.icu'
 // WebSocket连接地址
 VUE_APP_WS_URL = 'ws://139.196.182.46:8806/slipper/websocket/'
 // todo: 以下两个变量是在本地开发的时候使用
