@@ -1,6 +1,6 @@
 module.exports = {
   title: 'vue3-element-plus-admin',
-  base: '/docs/',
+  base: './',
   dest: 'admin-document',
   description: '一套基于vue3、element plus 和 Java 的快速开发后台管理权限系统的应用程序【私活神器，私活利器】',
   markdown: {
