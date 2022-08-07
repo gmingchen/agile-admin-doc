@@ -10,13 +10,18 @@ heroText: vue3-element-plus-admin
 </div>
 
 <div class="img-box">
-  <img class="home-img" src="http://oss.gumingchen.icu/admin/home.jpg" />
-  <img class="personal-img" src="http://oss.gumingchen.icu/admin/personal.jpg" />
-  <img class="file-img" src="http://oss.gumingchen.icu/admin/file.jpg" />
+  <img class="home-img" src="http://oss.gumingchen.icu/frame/home.jpg" />
+  <img class="personal-img" src="http://oss.gumingchen.icu/frame/personal.jpg" />
+  <img class="file-img" src="http://oss.gumingchen.icu/frame/file.jpg" />
 </div>
 
 <div class="other-title">其他开源</div>
 <div class="other-box">
+  <div>
+    <h3>Admin基础版后端服务</h3>
+    <p>一个基于Java、Spring boot、Mysql、Mybatis-plus、shiro的后端 RBAC 权限管理系统。内置菜单管理、企业管理、角色管理、管理员管理、操作日志、登录日志等功能。</p>
+    <a href="https://github.com/gmingchen/java-spring-boot-admin" target="blank">查看详情</a>
+  </div>
   <div>
     <h3>IM即时聊天</h3>
     <p>一个基于Vue3、Element-plus、Java、Spring boot、Maven、Netty、Mysql、Mybatis-plus的即时聊天系统，内置添加好友、好友私聊等功能。</p>
@@ -117,7 +122,7 @@ heroText: vue3-element-plus-admin
 .other-box > div {
   position: relative;
   bottom: 0px;
-  margin: 0 50px;
+  margin: 0 20px;
   height: 300px;
   width: 260px;
   border: 1px solid #dcdfe6;
