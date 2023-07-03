@@ -82,7 +82,7 @@ router.addRoute({ path: '/:pathMatch(.*)', redirect: { name: '401' } })
 <br>
 在 `Sidebar` 中已经做了判断，当你一个路由下面的 children 的路由 `>1` 个时，自动会变成嵌套的模式。如果子路由正好等于一个就会默认将子路由作为根路由显示在侧边栏中。
 ::: tip 代码地址
-<a href="https://github.com/gmingchen/vue3-element-plus-admin/tree/master/src/views/layout/components/sidebar">@/views/layout/components/sidebar</a>
+<a href="https://github.com/gmingchen/agile-admin/tree/master/src/views/layout/components/sidebar">@/views/layout/components/sidebar</a>
 :::
 ## 侧边栏多级目录
 如果路由是多级目录，只需要在菜单模块添加多级目录即可。后续会修改成目录也为一个菜单路由，从而实现路由嵌套

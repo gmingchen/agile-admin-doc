@@ -1,18 +1,18 @@
 {
-  "name": "vue3-element-plus-admin-doc",
+  "name": "agile-admin-doc",
   "version": "5.0.0",
   "description": "ue3-element-plus-admin-doc",
   "author": "gumingchen",
   "license": "MIT",
   "main": "index.js",
   "bugs": {
-    "url": "https://github.com/gmingchen/vue3-element-plus-admin-doc/issues"
+    "url": "https://github.com/gmingchen/agile-admin-doc/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gmingchen/vue3-element-plus-admin-doc.git"
+    "url": "git+https://github.com/gmingchen/agile-admin-doc.git"
   },
-  "homepage": "https://github.com/gmingchen/vue3-element-plus-admin-doc#readme",
+  "homepage": "https://github.com/gmingchen/agile-admin-doc#readme",
   "scripts": {
     "dev": "vuepress dev docs --temp .temp",
     "build": "vuepress build docs",

@@ -74,8 +74,8 @@
 ## 第四步 页面开发
 ### 页面
 以上步骤完成后可以使用企业帐号登录到后台，可以在侧边菜单栏看到新增的模块。可以进行相关的页面开发。<br>
-项目中统一封装了<a href="https://github.com/gmingchen/vue3-element-plus-admin/blob/master/src/components/global/container/index.vue">上下布局组件</a>、<a href="
-https://github.com/gmingchen/vue3-element-plus-admin/blob/master/src/components/container-sidebar/index.vue">左右布局组件</a>用来动态修改项目内置的布局。如不需要可以不使用该组件。
+项目中统一封装了<a href="https://github.com/gmingchen/agile-admin/blob/master/src/components/global/container/index.vue">上下布局组件</a>、<a href="
+https://github.com/gmingchen/agile-admin/blob/master/src/components/container-sidebar/index.vue">左右布局组件</a>用来动态修改项目内置的布局。如不需要可以不使用该组件。
 
 ### 接口
 该项目的接口是统一管理的，新增接口的时候需在`@/api`下创建文件夹和js文件。<br>

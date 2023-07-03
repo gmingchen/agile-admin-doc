@@ -1,23 +1,23 @@
 # 介绍
-<h1 class="center">vue3-element-plus-admin</h1>
+<h1 class="center">agile-admin</h1>
 
 <div class="svg-box center">
   <img src="https://img.shields.io/badge/vue-3.x-brightgreen.svg" alt="vue">
   <img src="https://img.shields.io/badge/element--plus-1.x-brightgreen.svg" alt="element-plus">
   <img src="https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg" />
-  <img src="https://www.oscs1024.com/platform/badge/gmingchen/vue3-element-plus-admin.svg?size=small" alt="vue">
+  <img src="https://www.oscs1024.com/platform/badge/gmingchen/agile-admin.svg?size=small" alt="vue">
 </div>
 
 <div class="svg-box center">
-  <img src="https://img.shields.io/github/stars/gmingchen/vue3-element-plus-admin.svg?logo=github&color=brightgreen">
-  <img src="https://img.shields.io/github/forks/gmingchen/vue3-element-plus-admin.svg?logo=github&color=brightgreen">
-  <img src="https://gitee.com/shychen/vue3-element-plus-admin/badge/star.svg?theme=dark">
-  <img src="https://gitee.com/shychen/vue3-element-plus-admin/badge/fork.svg?theme=dark">
+  <img src="https://img.shields.io/github/stars/gmingchen/agile-admin.svg?logo=github&color=brightgreen">
+  <img src="https://img.shields.io/github/forks/gmingchen/agile-admin.svg?logo=github&color=brightgreen">
+  <img src="https://gitee.com/shychen/agile-admin/badge/star.svg?theme=dark">
+  <img src="https://gitee.com/shychen/agile-admin/badge/fork.svg?theme=dark">
 </div>
 
 ::: tip
-- Java + Vue 有很多优秀的后台管理系统，但是为了可以高效的开发后台权限管理系统，作者就自己开发出 vue3-element-plus-admin。
-- [vue3-element-plus-admin](https://github.com/gmingchen/vue3-element-plus-admin) 是一个基于 Vue3 + Element-plus + Java + Spring boot + maven + mysql 的多企业后台权限管理系统，提供了完善的权限体系，让开发者把注意力集中到具体业务当中，降低开发成本，提高项目效率。
+- Java + Vue 有很多优秀的后台管理系统，但是为了可以高效的开发后台权限管理系统，作者就自己开发出 agile-admin。
+- [agile-admin](https://github.com/gmingchen/agile-admin) 是一个基于 Vue3 + Element-plus + Java + Spring boot + maven + mysql 的多企业后台权限管理系统，提供了完善的权限体系，让开发者把注意力集中到具体业务当中，降低开发成本，提高项目效率。
 - 可以用于网站管理后台、SAAS、CMS、CRM、OA、ERP等，企业和个人都可以免费使用。欢迎提交PR（需求），若开发中遇到问题可以上 Github 提 Issues。
 - 如果觉着还不错，请点个 ⭐star 支持一下吧，这将是对我最大的支持和鼓励！ 
 :::

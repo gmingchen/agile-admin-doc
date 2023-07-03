@@ -3,10 +3,10 @@
 
 ## Layout
 ::: tip 说明
-- 顶部导航-[haedbar](https://github.com/gmingchen/vue3-element-plus-admin/tree/master/src/views/layout/components/headbar)
-- 标签页-[tabsbar](https://github.com/gmingchen/vue3-element-plus-admin/tree/master/src/views/layout/components/tabsbar)
-- 侧边栏-[sidebar](https://github.com/gmingchen/vue3-element-plus-admin/tree/master/src/views/layout/components/sidebar)
-- 整体布局-[main](https://github.com/gmingchen/vue3-element-plus-admin/tree/master/src/views/layout)
+- 顶部导航-[haedbar](https://github.com/gmingchen/agile-admin/tree/master/src/views/layout/components/headbar)
+- 标签页-[tabsbar](https://github.com/gmingchen/agile-admin/tree/master/src/views/layout/components/tabsbar)
+- 侧边栏-[sidebar](https://github.com/gmingchen/agile-admin/tree/master/src/views/layout/components/sidebar)
+- 整体布局-[main](https://github.com/gmingchen/agile-admin/tree/master/src/views/layout)
 :::
 布局中主要使用了`NavigationActive`和`NavigationFixed`这两个组件来实现动态布局。其中`<View>`组件是二次封装的`<router-view>`组件，外部包了一层 `keep-alive`，主要是为了缓存`<router-view>`，可以在菜单模块控制是否缓存，如不需要也可以去除，`<router-view>`标签上使用了`<transition>`定义了页面之间切换动画，这边是使用了`element-plus`中的动画，可以根据自己的需求，自行修改动画。其中`<Websocket>`是处理WebSocket消息的组件。
 ``` html

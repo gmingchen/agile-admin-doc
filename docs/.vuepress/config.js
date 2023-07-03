@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'vue3-element-plus-admin',
+  title: 'agile-admin',
   base: '/doc/',
   dest: 'admin-document',
   description: '一套基于vue3、element plus 和 Java 的快速开发后台管理权限系统的应用程序【私活神器，私活利器】',
@@ -18,8 +18,8 @@ module.exports = {
       { 
         text: '⌨️ 源码',
         items: [
-          { text: '🐱 Github', link: 'https://github.com/gmingchen/vue3-element-plus-admin' },
-          { text: '🦁 Gitee', link: 'https://gitee.com/shychen/vue3-element-plus-admin' },
+          { text: '🐱 Github', link: 'https://github.com/gmingchen/agile-admin' },
+          { text: '🦁 Gitee', link: 'https://gitee.com/shychen/agile-admin' },
         ]
       }
     ],

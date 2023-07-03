@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.png
-heroText: vue3-element-plus-admin
+heroText: agile-admin
 ---
 
 <div class="btn-box">
