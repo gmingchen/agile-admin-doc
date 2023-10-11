@@ -10,9 +10,9 @@ heroText: agile-admin
 </div>
 
 <div class="img-box">
-  <img class="home-img" src="http://oss.gumingchen.icu/frame/home.jpg" />
-  <img class="personal-img" src="http://oss.gumingchen.icu/frame/personal.jpg" />
-  <img class="file-img" src="http://oss.gumingchen.icu/frame/file.jpg" />
+  <img class="home-img" src="https://admin.gumingchen.icu/file/frame/home.jpg" />
+  <img class="personal-img" src="https://admin.gumingchen.icu/file/frame/personal.jpg" />
+  <img class="file-img" src="https://admin.gumingchen.icu/file/frame/file.jpg" />
 </div>
 
 <div class="other-title">其他开源</div>

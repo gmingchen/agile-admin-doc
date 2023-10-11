@@ -38,7 +38,7 @@ npm run test  # 测试环境
 建议不要用直接使用 cnpm 安装，可以通过配置 registry 来解决 npm 安装速度慢或中断的问题。
 :::
 启动完成打开浏览器访问 http://localhost:9528，你看到下面的页面就代表操作成功了。
-![](http://oss.gumingchen.icu/frame/login.jpg)
+![](https://admin.gumingchen.icu/file/frame/login.jpg)
 
 
 ### 打包

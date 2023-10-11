@@ -69,62 +69,62 @@
 
 ### QQ群 - 作者QQ
 <div class="img-box">
-  <img src="http://oss.gumingchen.icu/image/qq-group-qr-code.jpg" title="QQ交流群" alt="QQ交流群:124371554" />
-  <img src="http://oss.gumingchen.icu/image/qq-qr-code.jpg" title="QQ" alt="QQ:1240235512" />
+  <img src="https://admin.gumingchen.icu/file/static/qq-group-qr-code.jpg" title="QQ交流群" alt="QQ交流群:124371554" />
+  <img src="https://admin.gumingchen.icu/file/static/qq-qr-code.jpg" title="QQ" alt="QQ:1240235512" />
 </div>
 
 ### 微信群 - 作者微信
 <div class="img-box">
-  <img src="http://oss.gumingchen.icu/image/wechat-group-qr-code.jpg?time=1"title="微信交流群" alt="微信交流群:124371554" />
-  <img src="http://oss.gumingchen.icu/image/wechat-qr-code-1.jpg" title="微信" alt="微信:Gy1240235512" />
+  <img src="https://admin.gumingchen.icu/file/static/wechat-group-qr-code.jpg?time=1"title="微信交流群" alt="微信交流群:124371554" />
+  <img src="https://admin.gumingchen.icu/file/static/wechat-qr-code-1.jpg" title="微信" alt="微信:Gy1240235512" />
 </div>
 
 ### 公众号
 <div class="img-box">
-  <img src="http://oss.gumingchen.icu/image/official-account-qr-code.jpg" title="公众号" alt="公众号:loafer-man" />
+  <img src="https://admin.gumingchen.icu/file/static/official-account-qr-code.jpg" title="公众号" alt="公众号:loafer-man" />
 </div>
 
 ## 演示图片
 <table>
   <tr>
-    <td><img src="http://oss.gumingchen.icu/frame/personal.jpg" title="演示图片" alt="演示图片" /></td>
-    <td><img src="http://oss.gumingchen.icu/frame/home.jpg" title="演示图片" alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/personal.jpg" title="演示图片" alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/home.jpg" title="演示图片" alt="演示图片" /></td>
   </tr>
   <tr>
-    <td><img src="http://oss.gumingchen.icu/frame/menu.jpg" title="演示图片"  alt="演示图片" /></td>
-    <td><img src="http://oss.gumingchen.icu/frame/file.jpg" title="演示图片"  alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/menu.jpg" title="演示图片"  alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/file.jpg" title="演示图片"  alt="演示图片" /></td>
   </tr>
   <tr>
-    <td><img src="http://oss.gumingchen.icu/frame/operation-log.jpg" title="演示图片"  alt="演示图片" /></td>
-    <td><img src="http://oss.gumingchen.icu/frame/error-log.jpg" title="演示图片"  alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/operation-log.jpg" title="演示图片"  alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/error-log.jpg" title="演示图片"  alt="演示图片" /></td>
   </tr>
   <tr>
-    <td><img src="http://oss.gumingchen.icu/frame/enterprise.jpg" title="演示图片"  alt="演示图片" /></td>
-    <td><img src="http://oss.gumingchen.icu/frame/enterprise-menu.jpg" title="演示图片" alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/enterprise.jpg" title="演示图片"  alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/enterprise-menu.jpg" title="演示图片" alt="演示图片" /></td>
   </tr>
   <tr>
-    <td><img src="http://oss.gumingchen.icu/frame/enterprise-role.jpg" title="演示图片" alt="演示图片" /></td>
-    <td><img src="http://oss.gumingchen.icu/frame/enterprise-administrator.jpg" title="演示图片"  alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/enterprise-role.jpg" title="演示图片" alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/enterprise-administrator.jpg" title="演示图片"  alt="演示图片" /></td>
   </tr>
   <tr>
-    <td><img src="http://oss.gumingchen.icu/frame/online.jpg" title="演示图片" alt="演示图片" /></td>
-    <td><img src="http://oss.gumingchen.icu/frame/dictionary.jpg" title="演示图片" alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/online.jpg" title="演示图片" alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/dictionary.jpg" title="演示图片" alt="演示图片" /></td>
   </tr>
   <tr>
-    <td><img src="http://oss.gumingchen.icu/frame/api.jpg" title="演示图片" alt="演示图片" /></td>
-    <td><img src="http://oss.gumingchen.icu/frame/region.jpg" title="演示图片" alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/api.jpg" title="演示图片" alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/region.jpg" title="演示图片" alt="演示图片" /></td>
   </tr>
   <tr>
-    <td><img src="http://oss.gumingchen.icu/frame/login.jpg" title="演示图片"  alt="演示图片" /></td>
-    <td><img src="http://oss.gumingchen.icu/frame/websocket.jpg" title="演示图片"  alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/login.jpg" title="演示图片"  alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/websocket.jpg" title="演示图片"  alt="演示图片" /></td>
   </tr>
   <tr>
-    <td><img src="http://oss.gumingchen.icu/frame/login-log.jpg" title="演示图片" alt="演示图片" /></td>
-    <td><img src="http://oss.gumingchen.icu/frame/configuration.jpg" title="演示图片"  alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/login-log.jpg" title="演示图片" alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/configuration.jpg" title="演示图片"  alt="演示图片" /></td>
   </tr>
   <tr>
-    <td><img src="http://oss.gumingchen.icu/frame/timed-task.jpg" title="演示图片" alt="演示图片" /></td>
-    <td><img src="http://oss.gumingchen.icu/frame/mail-template.jpg" title="演示图片" alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/timed-task.jpg" title="演示图片" alt="演示图片" /></td>
+    <td><img src="https://admin.gumingchen.icu/file/frame/mail-template.jpg" title="演示图片" alt="演示图片" /></td>
   </tr>
 </table>
 

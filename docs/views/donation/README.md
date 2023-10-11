@@ -4,7 +4,7 @@
  * @Email: 1240235512@qq.com
  * @Date: 2022-07-12 14:33:13
  * @LastEditors: gumingchen
- * @LastEditTime: 2023-01-16 17:28:10
+ * @LastEditTime: 2023-10-11 13:24:16
 -->
 # 捐赠
 ::: tip Donate
@@ -12,11 +12,11 @@
 :::
 <div class="img-box">
   <div class="wechat">
-    <img src="http://oss.gumingchen.icu/image/wechat-collection-code.png" />
+    <img src="https://admin.gumingchen.icu/file/static/wechat-collection-code.jpg" />
     <h3>微信捐赠</h3>
   </div>
   <div class="ali">
-    <img src="http://oss.gumingchen.icu/image/ali-collection-code.png" />
+    <img src="https://admin.gumingchen.icu/file/static/ali-collection-code.jpg" />
     <h3>支付宝捐赠</h3>
   </div>
 </div>
@@ -25,7 +25,7 @@
 <br>
 <div class="img-box">
   <div class="red-envelopes">
-    <img src="http://oss.gumingchen.icu/image/red-envelopes.jpg" />
+    <img src="https://admin.gumingchen.icu/file/static/red-envelopes.jpg" />
     <h3>支付宝扫码领红包</h3>
   </div>
 </div>
@@ -36,6 +36,7 @@
 :::
 | 来源 | 昵称 | 金额 | 时间 |
 |:------------- |:-------------:|:-------------:|:-------------:|
+|微信|P*k|100.00|2023-10-11|
 |微信|*王|18.80|2023-01-16|
 |微信|Github-几许春秋|10.00|2023-01-03|
 |微信|Github-Liuz|1.00|2023-01-03|

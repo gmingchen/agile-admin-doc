@@ -1,7 +1,7 @@
 # 权限
 项目中权限的实现方式是：登录成功之后获取用户拥有的菜单权限信息，存入 `vuex` 和 浏览器本地 中。
 其配置也是在菜单模块中配置 `授权标识`。
-![](http://oss.gumingchen.icu/frame/menu.jpg)
+![](https://admin.gumingchen.icu/file/frame/menu.jpg)
 
 ## 权限方法
 项目中封装了一个方法，能简单快速的实现按钮级别的权限判断。<br>

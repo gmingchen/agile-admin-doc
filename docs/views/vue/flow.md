@@ -16,7 +16,7 @@
 ## 第二步 添加菜单权限
 ### 新增菜单
 使用总后台帐号登录系统，在`开发配置`中的`菜单权限`新增一个菜单权限。<br>
-![](http://oss.gumingchen.icu/frame/menu.jpg)
+![](https://admin.gumingchen.icu/file/frame/menu.jpg)
 如上步骤中说到的轮播图模块。点击新增按钮并选中，在表单的各个字段中填上基本信息如下：
 ```bash
 # 中文名称
@@ -157,4 +157,4 @@ export function deleteApi(params) {
 
 ## 代码生成器
 本项目中内内置了代码生成器，可以对单表进行前端代码（模块列表组件、模块新增编辑弹窗组件、接口文件）、后端代码快速生成（entity、mapper、dao、model、service、controller，实现了分页查询、详情查询、新增、编辑、删除的操作）减少了开发者70%的工作量，只有30%需要开发者自己调整。解放开发者，再也不用 Ctrl + C 、Ctrl + V了 ✊
-![](http://oss.gumingchen.icu/frame/generator.jpg)
+![](https://admin.gumingchen.icu/file/frame/generator.jpg)
