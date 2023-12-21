@@ -67,9 +67,8 @@
 
 ## 技术交流
 
-### QQ群 - 作者QQ
+### 作者QQ
 <div class="img-box">
-  <img src="https://admin.gumingchen.icu/file/static/qq-group-qr-code.jpg" title="QQ交流群" alt="QQ交流群:124371554" />
   <img src="https://admin.gumingchen.icu/file/static/qq-qr-code.jpg" title="QQ" alt="QQ:1240235512" />
 </div>
 
@@ -79,9 +78,10 @@
   <img src="https://admin.gumingchen.icu/file/static/wechat-qr-code-1.jpg" title="微信" alt="微信:Gy1240235512" />
 </div>
 
-### 公众号
+### 公众号 - 小程序
 <div class="img-box">
   <img src="https://admin.gumingchen.icu/file/static/official-account-qr-code.jpg" title="公众号" alt="公众号:loafer-man" />
+  <img src="https://admin.gumingchen.icu/file/static/wechat-applet-qr-code.jpg" title="公众号" alt="公众号:loafer-man" />
 </div>
 
 ## 演示图片
